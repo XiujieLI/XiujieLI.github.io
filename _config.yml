@@ -3,17 +3,17 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# `jekyll serve`. If you change this file, please restart the server process.
 
+# Site Settings
 locale                   : "en-US"
-title                    : "Xiujie LI"
+title                    : "Guangxiao Hu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://XiujieLI/Xiujie_LI.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://guangxiao-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "XiujieLI/Xiujie_LI.github.io"
+repository               : "guangxiao-hu/guangxiao-hu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiujie LI"
-  avatar           : "photo-XiujieLI.png"
-  bio              : "Postdoctoral fellow at Hong Kong Polytechnic University"
-  location         : "Kowloon, Hong Kong"
+  name             : "Guangxiao Hu"
+  avatar           : "gxhu.png"
+  bio              : "Postdoctoral associate at University of Maryland"
+  location         : "College Park, MD, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=QHhvAnsAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=B2ZsQYcAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Xiujie-Li-6"
+  researchgate     : "https://www.researchgate.net/profile/Guangxiao-Hu-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Xiujie_LI"
+  github           : "guangxiao-hu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xiujie-li-853528244/"
-  orcid            : "https://orcid.org/0000-0001-8221-0279"
+  linkedin         : "https://www.linkedin.com/in/guangxiao-hu-0566111b5"
+  orcid            : "https://orcid.org/0000-0001-7308-5947"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
