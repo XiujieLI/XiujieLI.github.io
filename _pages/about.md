@@ -11,17 +11,20 @@ Currently, I am a Research Fellow in&nbsp;<a href="https://www.polyu.edu.hk/beee
 
 Employment
 ------
-September 2023 ~ present: Postdoctoral Fellow, the Department of Building Environment and Energy Engineering, Faculty of Construction and Environment, Hong Kong Polytechnic University.
+September 2023 ~ present: Postdoctoral Fellow, the Department of Building Environment and Energy Engineering, Hong Kong Polytechnic University.
 
 Education
 ------
 Hong Kong Polytechnic University, Kowloon, Hong Kong, August 2023
+
 PhD in Building Environment
 
 Peking University, Beijing, China, July, 2019
+
 MSc Environmental Engineering
 
 Chang'an University, Xi'an, China, July, 2016
+
 BA in Vehicle Engineering
 
 Contact info
