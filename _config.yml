@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Xiujie LI"
-  avatar           : "photo-XiujieLI.jpg"
+  avatar           : "photo-XiujieLI.png"
   bio              : "Postdoctoral fellow at Hong Kong Polytechnic University"
   location         : "Kowloon, Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=QHhvAnsAAAAJ&hl=zh-TW"
+  googlescholar    : "https://scholar.google.com/citations?user=QHhvAnsAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Xiujie-Li-6"
   uri              :
