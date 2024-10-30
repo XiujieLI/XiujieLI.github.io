@@ -16,13 +16,16 @@ September 2023 ~ present: Postdoctoral Fellow, the Department of Building Enviro
 Education
 ------
 Hong Kong Polytechnic University, Kowloon, Hong Kong, August 2023
- ##PhD in Building Environment
+
+PhD in Building Environment
 
 Peking University, Beijing, China, July, 2019
- ##MSc Environmental Engineering
+
+MSc Environmental Engineering
 
 Chang'an University, Xi'an, China, July, 2016
- ##BA in Vehicle Engineering
+
+BA in Vehicle Engineering
 
 Contact info
 ------
