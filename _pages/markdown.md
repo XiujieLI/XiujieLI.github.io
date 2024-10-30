@@ -6,7 +6,6 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-<strong> News </strong>
 <p> 12/2023, Xiujie was awarded the Hong Kong PolyU Postdoc Matching Fellowship (Principal Investigator) </p>
 <p> 08/2023, Xiujie defended his Ph.D. thesis entitled "A Study of Pollutant Dispersion Mechanism in Medical Environments using Particle Image Velocimetry (PIV) and Computational Fluid Dynamics (CFD)" </p>
 <p> 05/2023, A research article evaluating the cross-infection risks of two dental atomization procedures has been accepted by <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710223011403">Journal of Building Engineering</a>. (IF=7.14) </p>
