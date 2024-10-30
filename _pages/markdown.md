@@ -14,8 +14,3 @@ redirect_from:
 <p> 04/2023, Mr. Xiujie LI was awarded the Occupational Safety & Health Best Project Scholarship <a href="https://www.oshc.org.hk/eng/main/services_support/osh_research/">[Link]</a> </p>
 <p> 02/2023, Our conference paper on&nbsp; performance of mitigation measures on droplets in dental clinics has been accepted by <a href="https://www.iaqvec2023.org/">IAQVEC2023</a>.</p>
 
-
-**Footnotes**
-
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
-
