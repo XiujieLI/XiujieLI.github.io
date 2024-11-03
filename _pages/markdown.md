@@ -6,6 +6,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<p> 11/2024, Xiujie gave an invited presentation at the Building and Vehicle Air Environment (BAVE) Seminar of Young Scholars. </p>
+<img style="width:96%;" src="https://xiujieli.github.io/images/talk-2.png">
 <p> 07/2024, A research article combining the PIV and CFD to resolve the atomization and transmission patterns of dental-contaminated droplets has been published in <a href="https://doi.org/10.1016/j.jhazmat.2024.135338">Journal of Journal of Hazardous Materials</a>. (IF=12.2) </p>
 <p> 07/2024, Xiujie gave an oral presentation at the <strong> Indoorair 2024 conference </strong> and communicated with <a href="https://scholar.google.com/citations?user=gJUlfqcAAAAJ&hl=zh-TW&oi=ao"> Prof. Lidia Morawska</a> </p> 
 <img style="width:96%;" src="https://xiujieli.github.io/images/indoorair.png">
