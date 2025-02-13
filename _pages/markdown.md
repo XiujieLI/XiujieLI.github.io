@@ -6,6 +6,10 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<p> 02/2025, Mr. Xiujie LI was awarded the Buildings International Journal 2025 Travel Award <a href="https://www.mdpi.com/journal/buildings/awards/2693">[Link]</a> </p>
+<p>This award is granted bu the international journal Buildings in MDPI to provide financial support for the winners to attend an international conference in the field of building environment and related research to be held in 2025, in order to hold a presentation, present a poster, or both. Only two junior scientists in the global architecture area were granted the travel award in 2025.</p>
+<img style="width:96%;" src="https://xiujieli.github.io/images/award-2.png">
+<p> 02/2025, A research article focusing on the effect of droplet composition on evaporation and transmission has been published in <a href="https://doi.org/10.1016/j.jhazmat.2024.135338">Indoor and Built Environment</a>. (IF=3.2) </p>
 <p> 11/2024, Xiujie gave an invited presentation at the <strong>Building and Vehicle Air Environment (BAVE)</strong> Seminar of Young Scholars. </p>
 <img style="width:96%;" src="https://xiujieli.github.io/images/talk-2.png">
 <p> 07/2024, A research article combining the PIV and CFD to resolve the atomization and transmission patterns of dental-contaminated droplets has been published in <a href="https://doi.org/10.1016/j.jhazmat.2024.135338">Journal of Journal of Hazardous Materials</a>. (IF=12.2) </p>
